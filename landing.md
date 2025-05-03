@@ -79,7 +79,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Resume</a></li>
+			<li><a href="https://drive.google.com/file/d/1vChRswPfE-lrjltEvgunWiKL5fCYiaCN/view" class="button next">Resume</a></li>
 		</ul>
 	</div>
 </section>
