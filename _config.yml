@@ -7,10 +7,10 @@ baseurl: "/abrielleflick" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
-city: Mishawaka
-state: IN
-zip_code: 46544
-country: United States of America
+city:
+state:
+zip_code:
+country:
 phone: (574) 344-1584
 
 # homepage tiles
