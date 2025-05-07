@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Overview</h2>
 		</header>
-		<p>From farm work to formal office experience, my professional and personal involvements have equipped me with a wide variety of skills and values. While psychology is my passion, I also enjoy working with animals and being involved in the Notre Dame Band, as described below.</p>
+		<p>From farm work to formal office experience, my personal and professional involvements have equipped me with a wide variety of skills and values. While psychology is my passion, I also enjoy working with animals and being involved in the Notre Dame Band, as described below.</p>
 	</div>
 </section>
 
