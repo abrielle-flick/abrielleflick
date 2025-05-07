@@ -17,11 +17,11 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"></h2>
-<p></p>
+<p>My name is Abrielle Flick and I'm a sophomore at the University of Notre Dame from Mishawaka, Indiana. I am majoring in psychology with a supplementary major in Spanish. Outside of the classroom, I am a member of the trumpet section in the marching band as well as a member of the ballroom dancing club. In my free time, I enjoy playing the piano and saxophone, running, sewing, and baking.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3></h3>
-		<p>My name is Abrielle Flick and I'm a sophomore at the University of Notre Dame from Mishawaka, Indiana. I am majoring in psychology with a supplementary major in Spanish. Outside of the classroom, I am a member of the trumpet section in the marching band as well as a member of the ballroom dancing club. In my free time, I enjoy playing the piano and saxophone, running, sewing, and baking.</p>
+		<p></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3></h3>
