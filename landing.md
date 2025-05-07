@@ -1,7 +1,7 @@
 ---
 title: Experience
 layout: landing
-description: 'Below are a few examples of my work and volunteer experience, paired with brief descriptions of each'
+description:
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
