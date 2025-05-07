@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>The Notre Dame Band</h3>
 				</header>
-				<p>I play the trumpet for various band ensembles at Notre Dame, including the marching band. I also work as a FUIC for the band, which means I work with other FUICs to fit marching band members in uniforms and maintain the uniforms. We inventory uniforms, perform uniform repairs, and prepare uniforms for cleaning. Working as a FUIC has allowed me to gain experience working on a team and develop a friendly and professional demeanor in the workplace. Performing uniform repairs has also given me the opportunity to work on my sewing skills--and sewing happens to be another one of my hobbies!</p>
+				<p>I play the trumpet for various band ensembles at Notre Dame, including the marching band. I also work as a FUIC (Friendly Uniform and Instrument Custodian) for the band, which means I work with other FUICs to fit marching band members in uniforms and maintain the uniforms. We inventory uniforms, perform uniform repairs, and prepare uniforms for cleaning. Working as a FUIC has allowed me to gain experience working on a team and develop a friendly and professional demeanor in the workplace. Performing uniform repairs has also given me the opportunity to work on my sewing skills--and sewing happens to be another one of my hobbies!</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
