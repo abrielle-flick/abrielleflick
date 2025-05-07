@@ -63,9 +63,6 @@ nav-menu: true
 					<h3>Prairie Winds Nature Farm</h3>
 				</header>
 				<p>Last year, I visited Prairie Winds Nature Farm for one of my classes, which required us to make two trips to the farm--one orientation visit and one service visit. I enjoyed my time on the farm and the work I did for service, which included different farm maintenance tasks, and I wanted to visit the farm again, so I volunteered there a few times over the summer before my sophomore year. Working on the farm allowed me to learn more about nature and the animals I interacted with, as well as general information about the farm and how to complete the tasks I helped with. My time on the farm also allowed me to form relationships with people I met and learn more about how the farm impacts the community. I intend to volunteer at the farm again this summer so that I can maintain the connections I made and continue to immerse myself in nature.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
